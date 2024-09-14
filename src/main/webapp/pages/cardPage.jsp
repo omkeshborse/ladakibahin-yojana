@@ -217,7 +217,7 @@ body {
 				<p class="list-group fs-6 my-2 mx-3">हेल्पलाइन टोल फ्री संपर्क
 					क्रमांक : १८१</p>
 			</div>
-			<p class="my-2 mr-2 position-relative end">त्रुटी नोंदवा</p>
+			<p class="my-2 mr-2 position-relative end"><a href="https://forms.gle/iFdtHvxBqxy2Wwor8" style="color: #ffffff;"> त्रुटी नोंदवा </a></p>
 		</div>
 
 		<!-- Logo section header -->
